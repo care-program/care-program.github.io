@@ -1,12 +1,38 @@
 ---
 permalink: /
-title: "This website is under construction. Please contact me at 'anubhav0603@gmail.com' for details."
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+(Last Updated: January 13, 2021)
+
+I'm a senior year undergraduate student at Indian Institute of Technogly (IIT) Patna, pursuing a Bachelor in Technology in Computer Science and Engineering. I've been an active part of the AI-NLP-ML Lab, IIT Patna since July 2018, and have completed various projects. I have worked extensively on summarization, including extractive and abstractive text summarization, and multi-modal summarization. I have also explored other research problems like complaint mining, neural machine translation, time series classification, and lexico-semantic relation analysis. 
+
+My current supervisors include [Dr. Sriparna Saha](https://www.iitp.ac.in/~sriparna/) (Associate Professor, IIT Patna), [Dr. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/) (Professor, IIT Bombay), [Dr. Adam Jatowt](https://adammo12.github.io/adamjatowt/) (Associate Professor, Kyoto University), [Dr. Gaël H. Dias](https://dias.users.greyc.fr/) (Professor, University of Caen Normandie), and [Dr. Mohammed Hasanuzzaman](https://mohammedhasanuzzaman.github.io/) (Lecturer, Cork Institute of Technology).
+
+My research interests currently include natural language processing (NLP) and multi-modal content processing. However, I'm always seeking out new research directions to explore, and am always looking forward to working with people from various cultures and backgrounds, and develop interesting real-world projects. 
+
+**Life aspiration**: I wish to utilize my research experience in NLP, Vision and multi-modal information to make the 'right to education' a fundamental right for everyone.
+
+News
+======
+* 01.12.2020 - Conference paper "Semantic Extractor-Paraphraser based Abstractive Summarization" got accepted at [17th International Conference on Natural Language Processing (ICON) 2020](http://www.iitp.ac.in/~ai-nlp-ml/icon2020/). 
+
+* 26.12.2020 - Invited to give a talk at **PyData Patna Conference** hosted by **IIT Patna & IEEE**.
+
+* 05.08.2020 - Received acceptance to participate in the **AI Summer School** hosted by **Google Research India**.
+
+* 04.23.2020 - Conference paper (short) "Multi-Modal Summary Generation using Multi-objective Optimization" got accepted in [43rd International ACM SIGIR Conference on Research and Development in Information Retrieval](https://sigir.org/sigir2020/). [category A\*, h5 index: 57]
+
+* 09.12.2019 - Conference paper (short) "Text-Image-Video Summary Generation using Joint Integer Linear Programming" got accepted in [42nd European Conference on Information Retrieval (ECIR 2020)](https://ecir2020.org/). [category A, h5 index: 27]
+
+* 12.10.2018 - Journal Paper "Extractive single document summarization using multi-objective optimization..." got Accepted in [Elsvier's Knowledge-Based Systems
+2018](https://www.journals.elsevier.com/knowledge-based-systems). [Impact Factor: 5.921, h5 index: 85]
+
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 

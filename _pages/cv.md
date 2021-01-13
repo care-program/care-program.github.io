@@ -9,51 +9,79 @@ redirect_from:
 
 {% include base_path %}
 
+You can see my complete resume [here](/files/cv.pdf)
+
 Education
 ======
-* B.Tech. in Computer Science and Engineering, Indian Institute of Technology Patna, 2020 (Expected)
-<!-- * M.S. in Jekyll, GitHub University, 2014 -->
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+* B.Tech. in Computer Science and Engineering, Indian Institute of Technology Patna, 2017-21 (Expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jun 2020 – Aug 2020: Research Intern
+  * [GREYC - Research Center - ENSICAEN](https://www.ensicaen.fr/en/research/greyc/), France
+  * Research project title: Multi-modal Identification of Lexico-Semantic Relations
+  * Supervisor: [Dr. Gaël H. Dias](https://dias.users.greyc.fr/) (Professor)
+
+* Dec 2019 – Jan 2020: Research Intern
+  * [Innovation Labs Kolkata](https://www.tcs.com/research-and-innovation), Tata Consultancy Services, India
+  * Research project title: Generative modelling for time series classification
+  * Supervisor: [Mr. Arijit Ukil](https://www.linkedin.com/in/arijitukil?originalSubdomain=in) (Consultant)
+
+* May 2019 – Jun 2019: Research Intern
+  * [Graduate School of Informatics](http://www.i.kyoto-u.ac.jp/en/), Kyoto University, Japan
+  * Research project title: Multi-modal summarization
+  * Supervisor: [Dr. Adam Jatowt](https://adammo12.github.io/adamjatowt/) (Associate Professor)
+
+* Dec 2018 – Jan 2019: Research Intern
+  * [Computing for Indian Language Technology (CFILT) Lab](http://www.cfilt.iitb.ac.in/), IIT Bombay, India
+  * Research project title: Unsupervised neural machine translation (NMT) for distant language pairs
+  * Supervisor: [Dr. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/) (Professor)
   
-Skills
+Volunteer work
+======
+* Reviewer - ACM Computing Surveys (since Jan 2021).
+* Reviewer - ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP) (since May 2020).
+* Secondary reviewer - European Association of Computational Linguistics (EACL) 2021 (Oct 2020 - Nov 2020).
+
+Research Interests
+======
+* Natural Language Processing
+  * Summarization
+* Deep Learning
+* Multi-modal Content Processing
+  * Multi-modal Summarization
+* A.I. for Social Good
+  * Using A.I. systems to enhancing education quality across the globe.
+
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
