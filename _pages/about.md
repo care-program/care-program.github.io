@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-(Last Updated: January 13, 2021)
+(Last Updated: April 16, 2021)
 
 I'm a senior year undergraduate student at Indian Institute of Technogly (IIT) Patna, pursuing a Bachelor in Technology in Computer Science and Engineering. I've been an active part of the AI-NLP-ML Lab, IIT Patna since July 2018, and have completed various projects. I have worked extensively on summarization, including extractive and abstractive text summarization, and multi-modal summarization. I have also explored other research problems like complaint mining, neural machine translation, time series classification, and lexico-semantic relation analysis. 
 
@@ -20,6 +20,8 @@ My research interests currently include natural language processing (NLP) and mu
 
 News
 ======
+* 04.14.2021 - Conference paper (full) "Multi-Modal Supplementary-Complementary Summarization using Multi-Objective Optimization" got accepted in [44rd International ACM SIGIR Conference on Research and Development in Information Retrieval](https://sigir.org/sigir2021/). [category A\*, h5 index: 57]
+
 * 01.12.2020 - Conference paper "Semantic Extractor-Paraphraser based Abstractive Summarization" got accepted at [17th International Conference on Natural Language Processing (ICON) 2020](http://www.iitp.ac.in/~ai-nlp-ml/icon2020/). 
 
 * 26.12.2020 - Invited to give a talk at **PyData Patna Conference** hosted by **IIT Patna & IEEE**.

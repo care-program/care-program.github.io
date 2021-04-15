@@ -42,17 +42,19 @@ Volunteer work
 ======
 * Reviewer - ACM Computing Surveys (since Jan 2021).
 * Reviewer - ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP) (since May 2020).
-* Secondary reviewer - European Association of Computational Linguistics (EACL) 2021 (Oct 2020 - Nov 2020).
+* Secondary reviewer - Association of Computational Linguistics (ACL) 2021
+* Secondary reviewer - European Association of Computational Linguistics (EACL) 2021
 
 Research Interests
 ======
 * Natural Language Processing
   * Summarization
+* Information Retrieval
 * Deep Learning
 * Multi-modal Content Processing
   * Multi-modal Summarization
 * A.I. for Social Good
-  * Using A.I. systems to enhancing education quality across the globe.
+  * Using A.I. systems to provide affordable and quality education
 
 
 <!-- Skills

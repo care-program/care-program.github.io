@@ -13,6 +13,8 @@ For an updated list, kindly refer to my [Google Scholar's page](https://scholar.
 
 ## Conferences
 
+* **Anubhav Jangra**, Sriparna Saha, Adam Jatowt, Mohammed Hasanuzzaman. Multi-Modal Supplementary-Complementary Summarization using Multi-Objective Optimization. 44rd International ACM SIGIR Conference on Research and Development in Information Retrieval, 2020. (category A\*, h5 index: 57) (accepted)
+
 * **Anubhav Jangra**\*, Raghav Jain\*, Vaibhav Mavi\*, Sriparna Saha, Pushpak Bhattacharyya. Semantic ExtractorParaphraser based Abstractive Summarization. 17th International Conference on Natural Language Processing (ICON), 2020. (accepted)
 
 * **Anubhav Jangra**, Sriparna Saha, Adam Jatowt, Mohammed Hasanuzzaman. Multi-Modal Summary Generation using Multi-objective Optimization. 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, 2020. (category A\*, h5 index: 57) ([Link](https://doi.org/10.1145/3397271.3401232))
