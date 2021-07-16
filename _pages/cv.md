@@ -13,10 +13,21 @@ You can see my complete resume [here](/files/cv.pdf)
 
 Education
 ======
-* B.Tech. in Computer Science and Engineering, Indian Institute of Technology Patna, 2017-21 (Expected)
+* B.Tech. in Computer Science and Engineering, Indian Institute of Technology Patna, 2017-21. GPA: 8.78/10, Major GPA: 9.12/10 (CS + MA)
 
 Work experience
 ======
+
+* Jul 2021 – Present: Pre-doctoral Researcher
+  * [Google Research India](https://research.google/locations/india/)
+  * Research project title: Health Care App
+  * Supervisor: [Dr. Aravindan Raghuveer](https://www.linkedin.com/in/aravindan-raghuveer-9a724234) (Senior Engineering Manager)
+
+
+* Jun 2021 – Jul 2021: Global Research Mentee
+  * IBM, India
+  * Research project title: Health Care App
+  * Supervisor: [Ganesan Narayanasamy](https://www.linkedin.com/in/ganesannarayanasamy/) (Senior Technical Computing Solution and Client Care Manager)
 
 * Jun 2020 – Aug 2020: Research Intern
   * [GREYC - Research Center - ENSICAEN](https://www.ensicaen.fr/en/research/greyc/), France
@@ -42,8 +53,10 @@ Volunteer work
 ======
 * Reviewer - ACM Computing Surveys (since Jan 2021).
 * Reviewer - ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP) (since May 2020).
+* Secondary reviewer - Empirical Methods in Natural Language Processing (EMNLP) 2021
 * Secondary reviewer - Association of Computational Linguistics (ACL) 2021
 * Secondary reviewer - European Association of Computational Linguistics (EACL) 2021
+* Secondary reviewer - Association for the Advancement of Artificial Intelligence (AAAI) 2021
 
 Research Interests
 ======

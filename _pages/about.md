@@ -8,25 +8,33 @@ redirect_from:
   - /about.html
 ---
 
-(Last Updated: April 16, 2021)
+(Last Updated: July 16, 2021)
 
-I'm a senior year undergraduate student at Indian Institute of Technogly (IIT) Patna, pursuing a Bachelor in Technology in Computer Science and Engineering. I've been an active part of the AI-NLP-ML Lab, IIT Patna since July 2018, and have completed various projects. I have worked extensively on summarization, including extractive and abstractive text summarization, and multi-modal summarization. I have also explored other research problems like complaint mining, neural machine translation, time series classification, and lexico-semantic relation analysis. 
+I'm a Pre-doctoral Researcher at [Google Research India](https://research.google/locations/india/) in the Advertising Sciences team lead by [Dr. Aravindan Raghuveer](https://www.linkedin.com/in/aravindan-raghuveer-9a724234). 
 
-My current supervisors include [Dr. Sriparna Saha](https://www.iitp.ac.in/~sriparna/) (Associate Professor, IIT Patna), [Dr. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/) (Professor, IIT Bombay), [Dr. Adam Jatowt](https://adammo12.github.io/adamjatowt/) (Associate Professor, Kyoto University), [Dr. Gaël H. Dias](https://dias.users.greyc.fr/) (Professor, University of Caen Normandie), and [Dr. Mohammed Hasanuzzaman](https://mohammedhasanuzzaman.github.io/) (Lecturer, Cork Institute of Technology).
+I graduated from Indian Institute of Technogly (IIT) Patna with a Bachelor of Technology (B.Tech) in Computer Science and Engineering. I've was an active member of the [AI-NLP-ML Lab, IIT Patna](https://www.iitp.ac.in/~ai-nlp-ml/) since July 2018, and have completed various projects. I have worked extensively on summarization, including extractive and abstractive text summarization, and multi-modal summarization. I have also explored other research problems like complaint mining, neural machine translation, time series classification, and lexico-semantic relation analysis. 
 
-My research interests currently include natural language processing (NLP) and multi-modal content processing. However, I'm always seeking out new research directions to explore, and am always looking forward to working with people from various cultures and backgrounds, and develop interesting real-world projects. 
+<!-- My current supervisors include [Dr. Sriparna Saha](https://www.iitp.ac.in/~sriparna/) (Associate Professor, IIT Patna), [Dr. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/) (Professor, IIT Bombay), [Dr. Adam Jatowt](https://adammo12.github.io/adamjatowt/) (Associate Professor, Kyoto University), [Dr. Gaël H. Dias](https://dias.users.greyc.fr/) (Professor, University of Caen Normandie), and [Dr. Mohammed Hasanuzzaman](https://mohammedhasanuzzaman.github.io/) (Lecturer, Cork Institute of Technology). -->
+
+My research interests include natural language processing (NLP) and multi-modal content processing. However, I'm always seeking out new research directions to explore, and am always looking forward to working with people from various cultures and backgrounds, and develop interesting real-world projects. 
 
 **Life aspiration**: I wish to utilize my research experience in NLP, Vision and multi-modal information to make the 'right to education' a fundamental right for everyone.
 
 News
 ======
+* 07.19.2021 - Joined [Google Research India](https://research.google/locations/india/) as a Pre-doctoral Researcher in the Advertising Sciences team.
+
+* 06.17.2021 - Joined IBM as a Global Research Mentee under the guidance of [Ganesan Narayanasamy](https://www.linkedin.com/in/ganesannarayanasamy/).
+
+* 06.01.2021 - Joined [University of Innsbruck](https://www.uibk.ac.at/informatik/index.html.en) as a part-time Teaching Assistant for the course 2021S703836 VU (Natural Language Processing) under the supervision of [Prof. Adam Jatowt](https://adammo12.github.io/adamjatowt/).
+
 * 04.14.2021 - Conference paper (full) "Multi-Modal Supplementary-Complementary Summarization using Multi-Objective Optimization" got accepted in [44rd International ACM SIGIR Conference on Research and Development in Information Retrieval](https://sigir.org/sigir2021/). [category A\*, h5 index: 57]
 
 * 01.12.2020 - Conference paper "Semantic Extractor-Paraphraser based Abstractive Summarization" got accepted at [17th International Conference on Natural Language Processing (ICON) 2020](http://www.iitp.ac.in/~ai-nlp-ml/icon2020/). 
 
 * 26.12.2020 - Invited to give a talk at **PyData Patna Conference** hosted by **IIT Patna & IEEE**.
 
-* 05.08.2020 - Received acceptance to participate in the **AI Summer School** hosted by **Google Research India**.
+* 05.08.2020 - Received acceptance to participate in the [AI Summer School](https://sites.google.com/view/aisummerschool2020) hosted by [Google Research India](https://research.google/locations/india/).
 
 * 04.23.2020 - Conference paper (short) "Multi-Modal Summary Generation using Multi-objective Optimization" got accepted in [43rd International ACM SIGIR Conference on Research and Development in Information Retrieval](https://sigir.org/sigir2020/). [category A\*, h5 index: 57]
 
