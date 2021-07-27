@@ -20,7 +20,7 @@ Work experience
 
 * Jul 2021 – Present: Pre-doctoral Researcher
   * [Google Research India](https://research.google/locations/india/)
-  * Research project title: Health Care App
+  * Team: Advertisement Sciences
   * Supervisor: [Dr. Aravindan Raghuveer](https://www.linkedin.com/in/aravindan-raghuveer-9a724234) (Senior Engineering Manager)
 
 

@@ -21,6 +21,8 @@ For an updated list, kindly refer to my [Google Scholar's page](https://scholar.
 
 ## Journals
 
-* Naveen Saini, Sriparna Saha, **Anubhav Jangra**, Pushpak Bhattacharyya. Extractive Single Document Summarization using Multiobjective Optimization: Exploring Self-organized Differential Evolution, Grey Wolf Optimizer and Water Cycle Algorithm, Elsevier’s Knowledge Based Systems, 2018. (IF: 5.921, h5 index: 985) \[[Paper](https://doi.org/10.1016/j.knosys.2018.10.021)\]
+* Apoorva Singh, Sriparna Saha, Mohammed Hasanuzzaman, *Anubhav Jangra*. Identifying Complaints based on Semi-Supervised Mincuts, Elsevier's Expert Systems with Applications, 2021. (IF: 6.954, h5 index: 118) (accepted)
+
+* Naveen Saini, Sriparna Saha, **Anubhav Jangra**, Pushpak Bhattacharyya. Extractive Single Document Summarization using Multiobjective Optimization: Exploring Self-organized Differential Evolution, Grey Wolf Optimizer and Water Cycle Algorithm, Elsevier’s Knowledge Based Systems, 2018. (IF: 5.921, h5 index: 85) \[[Paper](https://doi.org/10.1016/j.knosys.2018.10.021)\]
 
 \* - equal contribution

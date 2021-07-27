@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-(Last Updated: July 16, 2021)
+(Last Updated: July 27, 2021)
 
 I'm a Pre-doctoral Researcher at [Google Research India](https://research.google/locations/india/) in the Advertising Sciences team lead by [Dr. Aravindan Raghuveer](https://www.linkedin.com/in/aravindan-raghuveer-9a724234). 
 
@@ -22,6 +22,8 @@ My research interests include natural language processing (NLP) and multi-modal 
 
 News
 ======
+* 24.07.2021 - Journal Paper "Identifying Complaints based on Semi-Supervised Mincuts" got Accepted in [Elsvier's Expert Systems With Applications 2021](https://www.journals.elsevier.com/expert-systems-with-applications). [Impact Factor: 6.954, h5 index: 118]
+
 * 07.19.2021 - Joined [Google Research India](https://research.google/locations/india/) as a Pre-doctoral Researcher in the Advertising Sciences team.
 
 * 06.17.2021 - Joined IBM as a Global Research Mentee under the guidance of [Ganesan Narayanasamy](https://www.linkedin.com/in/ganesannarayanasamy/).
