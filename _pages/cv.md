@@ -11,53 +11,6 @@ redirect_from:
 
 You can see my complete resume [here](/files/cv.pdf)
 
-Education
-======
-* B.Tech. in Computer Science and Engineering, Indian Institute of Technology Patna, 2017-21. GPA: 8.78/10, Major GPA: 9.12/10 (CS + MA)
-
-Work experience
-======
-
-* Jul 2021 – Present: Pre-doctoral Researcher
-  * [Google Research India](https://research.google/locations/india/)
-  * Team: Advertisement Sciences
-  * Supervisor: [Dr. Aravindan Raghuveer](https://www.linkedin.com/in/aravindan-raghuveer-9a724234) (Senior Engineering Manager)
-
-
-* Jun 2021 – Jul 2021: Global Research Mentee
-  * IBM, India
-  * Research project title: Health Care App
-  * Supervisor: [Ganesan Narayanasamy](https://www.linkedin.com/in/ganesannarayanasamy/) (Senior Technical Computing Solution and Client Care Manager)
-
-* Jun 2020 – Aug 2020: Research Intern
-  * [GREYC - Research Center - ENSICAEN](https://www.ensicaen.fr/en/research/greyc/), France
-  * Research project title: Multi-modal Identification of Lexico-Semantic Relations
-  * Supervisor: [Dr. Gaël H. Dias](https://dias.users.greyc.fr/) (Professor)
-
-* Dec 2019 – Jan 2020: Research Intern
-  * [Innovation Labs Kolkata](https://www.tcs.com/research-and-innovation), Tata Consultancy Services, India
-  * Research project title: Generative modelling for time series classification
-  * Supervisor: [Mr. Arijit Ukil](https://www.linkedin.com/in/arijitukil?originalSubdomain=in) (Consultant)
-
-* May 2019 – Jun 2019: Research Intern
-  * [Graduate School of Informatics](http://www.i.kyoto-u.ac.jp/en/), Kyoto University, Japan
-  * Research project title: Multi-modal summarization
-  * Supervisor: [Dr. Adam Jatowt](https://adammo12.github.io/adamjatowt/) (Associate Professor)
-
-* Dec 2018 – Jan 2019: Research Intern
-  * [Computing for Indian Language Technology (CFILT) Lab](http://www.cfilt.iitb.ac.in/), IIT Bombay, India
-  * Research project title: Unsupervised neural machine translation (NMT) for distant language pairs
-  * Supervisor: [Dr. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/) (Professor)
-  
-Volunteer work
-======
-* Reviewer - ACM Computing Surveys (since Jan 2021).
-* Reviewer - ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP) (since May 2020).
-* Secondary reviewer - Empirical Methods in Natural Language Processing (EMNLP) 2021
-* Secondary reviewer - Association of Computational Linguistics (ACL) 2021
-* Secondary reviewer - European Association of Computational Linguistics (EACL) 2021
-* Secondary reviewer - Association for the Advancement of Artificial Intelligence (AAAI) 2021
-
 Research Interests
 ======
 * Natural Language Processing
