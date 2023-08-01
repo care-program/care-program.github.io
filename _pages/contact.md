@@ -7,6 +7,5 @@ redirect_from:
   - /contact
 ---
 
-### Gmail : [anubhav0603@gmail.com](mailto:anubhav0603@gmail.com)
-### Institute Email Id : [anubhav.cs17@iitp.ac.in](anubhav.cs17@iitp.ac.in)
-### Phone : (+91) - 98125 16727, 87085 87057
+### Email : [a.help.community@gmail.com](mailto:a.help.community@gmail.com)
+### Slack : [CARE Program](https://join.slack.com/t/care-program-group/shared_invite/zt-2058imlc6-2pmDjkNF72DKqKj2ulMVwQ)
