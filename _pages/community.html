@@ -6,7 +6,52 @@ redirect_from:
   - /community.html
 ---
 <style>
-@media (max-width:960px) {
+@media only screen and (max-width:550px) {
+	.community {
+		display: flex;
+		flex-direction: column;
+		width: 100%;
+	}
+	.person {
+		width: 70%;
+		display: flex;
+		flex-direction: row;
+		margin-right: 1%;
+		margin-bottom: 1%;
+	}
+	.image{
+		width: 50%; 
+		object-fit: cover;
+		object-position: 25% 25%; 
+	}
+	.details {
+		width: 45%;
+		flex-grow: 2;
+		display: flex;
+		flex-direction: column;
+		margin-top: 5px;
+		margin-left: 10px;
+		margin-bottom: 10px;
+	}
+	.name {
+		font-size: 14px;
+	}
+	.affiliation{
+		font-size: 10px; 
+	}
+	.info {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+	}
+	.icon {
+		margin-right: 5px;
+	}
+	.interests {
+		font-size: 10px; 
+	}
+}
+@media only screen and (min-width:550px) {
 	.community {
 		display: flex;
 		flex-direction: column;
@@ -52,7 +97,7 @@ redirect_from:
 		font-size: 12px; 
 	}
 }
-@media (min-width:960px) {
+@media only screen and  (min-width:960px) {
 	.community {
 		display: flex;
 		flex-wrap: wrap;
@@ -115,7 +160,7 @@ redirect_from:
 				<p>Anubhav Jangra</p>
 			</div>
 			<div id="affiliation" class="affiliation">
-				<p style="font-size:14px;"><i>Ph.D. student, Columbia University</i></p>
+				<p><i>Ph.D. student, Columbia University</i></p>
 			</div>
 			<div id="info" class="info">
 				<a href="https://anubhav-jangra.github.io/" class="icon"><i class="fas fa-home"></i></a>
